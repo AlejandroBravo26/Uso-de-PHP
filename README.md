@@ -23,6 +23,6 @@ Este proyecto es un sistema web desarrollado en PHP que permite la gestión de l
    - Seleccionar la opción "Editar" en un libro para modificar su información.
    - Usar la opción "Eliminar" para borrar un libro de la lista.
 ## Autores
-Acosta Loor María Belén
-Bravo Quijije Nixon Alejandro
-Chasi Cabascango María Rosario 
+- Acosta Loor María Belén
+- Bravo Quijije Nixon Alejandro
+- Chasi Cabascango María Rosario 
